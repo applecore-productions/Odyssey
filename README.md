@@ -10,9 +10,14 @@ RIP s0uthwes :(
 
 This project is being developed and open sourced in his memory, as he was interested in seeing it happen.
 
+# The Odyssey2 project
+
+This project will originaly merge the Taurine code with Odyssey UI with the main goal to merge all CStar open source jailbreaks togather once im more advanced with development.  all jailbreak code is the same all all of the original projects just with a different UI 
+
 # Supported Devices
 
-All A9-A13 devices on iOS 13.0-13.7
+All A9-A14 devices on iOS 14.0-14.3 at first with full IOS 13 support later
+IOS 11 support is unknown at this point
 
 # Status
 
