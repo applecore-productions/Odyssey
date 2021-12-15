@@ -20,8 +20,8 @@ All A9-A14 devices on iOS 14.0-14.3 at first with full IOS 13 support later
 IOS 11 support is unknown at this point
 
 # Status
-
-* Exploit: tardy0n [13.0 - 13.5], FTSB [13.0 - 13.7 on A9-A13] OR cicuta_virosa [13.0 - 13.7]
+* O2 project - in development - stage 0
+* Exploit: cicuta_virosa [14.0 - 14.3]
 * Privilege Escalation (to root): Working 
 * Nonce Setter: Working 
 * Remount: Working 
